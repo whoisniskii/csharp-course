@@ -2,7 +2,7 @@
 {
     class Aula01
     {
-        static void Main()
+        static void Aula1()
         {
             Console.WriteLine("Hi, how are you?");
             var condition = Console.ReadLine();
